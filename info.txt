@@ -1,5 +1,5 @@
-Student_id :
-Student Name :
-Major :
-Level :
-Faculty :
+Student_id : 2313110724
+Student Name : Peerapas Wongvan
+Major : IT
+Level : 1
+Faculty : Information Technology

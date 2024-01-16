@@ -1,4 +1,4 @@
-Id:23131107724
+Id:2313110724
 Name-Surname:Peerapas Wongvan
-Date:Jan-09-2024
-Topic: Class and Object
+Date:Jan-16-2024
+Topic: Encapsulation Concept
